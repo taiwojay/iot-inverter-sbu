@@ -30,13 +30,13 @@ PZEM004Tv30 pzem(PZEM_SERIAL, PZEM_RX_PIN, PZEM_TX_PIN);
 PZEM004Tv30 pzem(PZEM_SERIAL);
 #endif
 
-const char* ssid = "Mayowa";
-const char* password = "mayowa3553";
+const char* ssid = "YOUR-SSID";
+const char* password = "*******";
 
 WiFiClient  client;
 
 unsigned long myChannelNumber = 3;
-const char * myWriteAPIKey = "A4TIYXBVOH3HJZA0";
+const char * myWriteAPIKey = "channelapikey";
 
 // Define NTP Client to get time
 WiFiUDP ntpUDP;
