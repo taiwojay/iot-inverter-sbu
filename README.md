@@ -5,4 +5,4 @@ This is the Arduino code required to run on the energy monitoring device of the 
 
 - Ensure you download all libraries from the image above.
 - Input a valid SSID and password for Wi-Fi
-- Create a ThingSpeak account and grap your Channel Key.
+- Create a ThingSpeak account and grab your Channel Key.
